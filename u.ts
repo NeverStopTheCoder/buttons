@@ -2,7 +2,7 @@
 //%color=#37A8DB
 //%icon=""
 //% weight=85
-namespace button {
+namespace UIButton {
     let selectedButton: Sprite = null;
     let buttonBases: Sprite[] = [];
     let buttonKnobs: Sprite[] = [];
