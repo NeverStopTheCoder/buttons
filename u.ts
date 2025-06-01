@@ -1,4 +1,4 @@
-//%block="Buttons"
+//%block="Button"
 //%color=#37A8DB
 //%icon=""
 //% weight=85
