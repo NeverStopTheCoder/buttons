@@ -10,7 +10,7 @@ namespace UIButton {
     let c = false
     let uibuttonClick: boolean[] = []; // Store state for each toggle
     //% block="create button of color $color and egde color $linecolor"
-    //% blockSetVariable=myButton
+    //% blockSetVariable=Button
     //% group="Create"
     //% color.shadow="colorindexpicker"
     //% linecolor.shadow="colorindexpicker"
